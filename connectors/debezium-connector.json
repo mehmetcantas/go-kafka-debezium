@@ -5,7 +5,7 @@
     "tasks.max": "1",
     "database.hostname": "postgres",
     "database.port": "5432",
-    "database.user": "admin",
+    "database.user": "admin-user",
     "database.password": "admin",
     "database.dbname": "DebeziumTest",
     "database.server.name": "postgres",
