@@ -4,7 +4,7 @@ A simple demonstration of how to implement Debezium and Apache Kafka connection 
 
 ### How to run
 
-First, if you didn't installed Docker before you can download and install Docker to your system.
+First, if you didn't install Docker before you can download and install Docker to your system.
 
 https://www.docker.com/products/docker-desktop
 
